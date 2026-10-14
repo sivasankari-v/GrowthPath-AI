@@ -1,4 +1,4 @@
 streamlit
 google-generativeai
-pymupdf
+scikit-learn
 python-dotenv
